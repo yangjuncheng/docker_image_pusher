@@ -1,8 +1,12 @@
 sonatype/nexus3:3.69.0
 louislam/dockge:1
+louislam/uptime-kuma:1.23.13
+minio/minio:RELEASE.2024-03-15T01-07-19Z
 minio/minio:RELEASE.2024-06-22T05-26-45Z
 onlyoffice/documentserver:8.0.1
 onlyoffice/documentserver:8.1.0
+b3log/siyuan:v3.0.17
+elasticsearch:7.17.22
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
