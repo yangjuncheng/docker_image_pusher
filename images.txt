@@ -1,11 +1,25 @@
+# nexus3
 sonatype/nexus3:3.69.0
+sonatype/nexus3:3.69.0-java17
+
+# dockge
 louislam/dockge:1
+
+# uptime-kuma
 louislam/uptime-kuma:1.23.13
+
+# minio
 minio/minio:RELEASE.2024-03-15T01-07-19Z
 minio/minio:RELEASE.2024-06-22T05-26-45Z
+
+# onlyoffice
 onlyoffice/documentserver:8.0.1
 onlyoffice/documentserver:8.1.0
+
+# siyuan
 b3log/siyuan:v3.0.17
+
+# elasticsearch
 elasticsearch:7.17.22
 
 #支持私库
