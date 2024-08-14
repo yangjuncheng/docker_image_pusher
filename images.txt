@@ -28,3 +28,7 @@ elasticsearch:7.17.22
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+#jimureport-积木报表
+1298191366/jimureport-mysql:1.5.4
+1298191366/jimureport:1.5.4
