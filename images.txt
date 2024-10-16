@@ -8,6 +8,7 @@ louislam/dockge:1
 
 # uptime-kuma
 louislam/uptime-kuma:1.23.13
+louislam/uptime-kuma:1.23.15
 
 # minio
 minio/minio:RELEASE.2024-03-15T01-07-19Z
