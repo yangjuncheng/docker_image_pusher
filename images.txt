@@ -34,3 +34,6 @@ elasticsearch:7.17.22
 #jimureport-积木报表
 1298191366/jimureport-mysql:1.5.4
 1298191366/jimureport:1.5.4
+
+# mysql
+mysql:8.4.3
