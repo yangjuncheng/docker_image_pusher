@@ -39,3 +39,12 @@ elasticsearch:7.17.22
 
 # mysql
 mysql:8.4.3
+
+# postgres
+postgres:16-alpine
+
+# redis
+redis:7.2-alpine
+
+# docmost
+docmost/docmost:0.22.2
