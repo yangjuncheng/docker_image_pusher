@@ -45,6 +45,13 @@ postgres:16-alpine
 
 # redis
 redis:7.2-alpine
+redis:alpine
 
 # docmost
 docmost/docmost:0.22.2
+
+# mariadb
+mariadb:10.8
+
+# bench
+frappe/bench:latest
